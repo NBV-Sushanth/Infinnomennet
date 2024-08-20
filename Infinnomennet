@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<center><h1>     </h1></center>
+<center><img src="C:\Users\LENOVO T495\Downloads\1723964983140.jpeg"</center>
+<center>
+  <input type="text" id="query" name="q" placeholder="Search..." size="29px" height="85px" width="90px">
+<a href="Search bar.html"><button>Search bar</button></a>
+<p font color="green">Infinnomennet will give complete description about names:<a href="name search.html">name search</a></p>
+
+</center>
+</body>
+</html>
